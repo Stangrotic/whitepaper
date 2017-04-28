@@ -262,8 +262,8 @@ Phases 1 and 2
  
 Phases 3 and 4
  
-1.     	Transaction Services: Users pay "x" REX to utilize Rex's prebuilt contracts/GUI for transactional purposes. 
-2.     	Tokenized Contracts (RexDex)*
+1.     	**Transaction Services**: Users pay "x" REX to utilize Rex's prebuilt contracts/GUI for transactional purposes. 
+2.     	**Tokenized Contracts** (RexDex)*
  
 In Phase 4, Rex will introduce tokenized ownership. The assets will be traded via Rex’s internal exchange, the RexDex. The REX token will be utilized for trades and settlement services. We will release more information on the  Tokenized Ownership in the coming months.
   
@@ -360,9 +360,9 @@ After the user subscribes and locates a property, they engage the listing agent 
  
 The buyer’s lender will conduct:
  
-1.     	Mortgage origination (qualify the buyer)
-2.     	Appraisal
-3.     	Title search
+1. Mortgage origination (qualify the buyer)
+2. Appraisal
+3. Title search
  
 During due diligence, the seller will perform certain obligations spelled out in the PSA:
  
@@ -375,13 +375,13 @@ Throughout the transaction, the buyer and seller communicate through their banks
  
 Once diligence expires and both sides meet their respective obligations, a closing date is set. The following is a brief list of documents required at closing:
  
-1.     	Closing statement
-2.     	Title report
-3.     	Tax/insurance statements
-4.     	Inspection/survey reports
-5.     	Proof of identity
-6.     	Bank statements/authorizations
-7.     	Funds
+1. Closing statement
+2. Title report
+3. Tax/insurance statements
+4. Inspection/survey reports
+5. Proof of identity
+6. Bank statements/authorizations
+7. Funds
  
 In the US, closing costs average approximately +$10,000 for residential and approximately +$20,000 for commercial (subject to the size of the deal and local tax jurisdictions).
  
@@ -404,13 +404,13 @@ Bob is spending approximately $790.00/month or $790.00/per listing on marketing 
 Transaction:
 Alice’s broker finds Bobs listing on the MLS and presents it to Alice. Alice makes an offer of $3,400,000. Bob accepts Alice’s offer and their attorneys negotiate the Purchase & Sale agreement on the following terms:
  
-1.     	Alice is to obtain 70/30 financing.
-2.     	Due diligence period: 60 days.
-3.     	Closing to take place five days after the due diligence period expires.
-4.     	Bob must repair the damaged sidewalks and obtain electrical inspections.
-5.     	Bob must replace the cast iron waste line with PVC.
-6.     	Bob must replace the damaged roof shingles.
-7.     	Bob’s building must pass a fire inspection.
+1. Alice is to obtain 70/30 financing.
+2. Due diligence period: 60 days.
+3. Closing to take place five days after the due diligence period expires.
+4. Bob must repair the damaged sidewalks and obtain electrical inspections.
+5. Bob must replace the cast iron waste line with PVC.
+6. Bob must replace the damaged roof shingles.
+7. Bob’s building must pass a fire inspection.
  
 Alice deposits $175,000 in her attorney’s escrow account. Due to miscommunication between the title agency and bank, closing is delayed two weeks costing both Bob and Alice money in attorney fees and carrying costs.  Finally, a closing date is set, and after several hours of paperwork, title is passed. Title is recorded manually at Princeton’s municipal clerk’s office. 
  
