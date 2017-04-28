@@ -263,7 +263,7 @@ Phases 1 and 2
 Phases 3 and 4
  
 1. **Transaction Services**: Users pay "x" REX to utilize Rex's prebuilt contracts/GUI for transactional purposes. 
-2. Tokenized Contracts (RexDex)*
+2. **Tokenized Contracts**: (RexDex)
  
 In Phase 4, Rex will introduce tokenized ownership. The assets will be traded via Rex’s internal exchange, the RexDex. The REX token will be utilized for trades and settlement services. We will release more information on the  Tokenized Ownership in the coming months.
   
